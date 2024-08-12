@@ -14,6 +14,7 @@ Test the app to ensure accurate data display and functionality.
 
 ## Getting Started
 
+![weather](https://github.com/user-attachments/assets/2cffc315-85ff-4dea-86a6-5c51578b11a6)
 
 C:\Users\LAIBA\DEPMAD\pearlsky\lib\main.dart
 
@@ -22,6 +23,7 @@ C:\Users\LAIBA\DEPMAD\pearlsky\lib\home.dart
 C:\Users\LAIBA\DEPMAD\pearlsky\lib\workers.dart
 
 C:\Users\LAIBA\DEPMAD\pearlsky\assets\weather.png
+
 
 
 For help getting started with Flutter development, view the
