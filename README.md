@@ -1,15 +1,28 @@
-# project_weather_app
+# PearlSky Weather App
 
-A new Flutter project.
+<h3>DEN Internship Flutter project.</h3>
+
+<b>Objective:</b> Develop an app that provides current weather information and
+forecasts.
+
+<b>Key Steps:</b>
+Design the app's UI with screens for current weather and forecasts.
+Integrate a weather API (e.g., OpenWeatherMap) to fetch weather data.
+Implement data parsing and display the fetched information.
+Add features like location search and weather alerts.
+Test the app to ensure accurate data display and functionality.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+C:\Users\LAIBA\DEPMAD\pearlsky\lib\main.dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+C:\Users\LAIBA\DEPMAD\pearlsky\lib\home.dart
+
+C:\Users\LAIBA\DEPMAD\pearlsky\lib\workers.dart
+
+C:\Users\LAIBA\DEPMAD\pearlsky\assets\weather.png
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
