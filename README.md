@@ -12,9 +12,14 @@ Implement data parsing and display the fetched information.
 Add features like location search and weather alerts.
 Test the app to ensure accurate data display and functionality.
 
-## Getting Started
+## Weather Application using Openeat
 
 ![weather](https://github.com/user-attachments/assets/2cffc315-85ff-4dea-86a6-5c51578b11a6)
+
+![WeatherApp1](https://github.com/user-attachments/assets/dedc229b-40be-4821-8e4b-2f39f5a669e2)
+
+![WeatherApp2](https://github.com/user-attachments/assets/f9d50851-7dda-4f2e-8597-4cf6c4974215)
+
 
 C:\Users\LAIBA\DEPMAD\pearlsky\lib\main.dart
 
