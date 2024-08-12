@@ -21,6 +21,7 @@ Loading Screen
 ![WeatherApp1](https://github.com/user-attachments/assets/dedc229b-40be-4821-8e4b-2f39f5a669e2)
 
 Fetching Locations Weather by OpenWeatherAPI Call
+
 ![WeatherApp2](https://github.com/user-attachments/assets/f9d50851-7dda-4f2e-8597-4cf6c4974215)
 
 
