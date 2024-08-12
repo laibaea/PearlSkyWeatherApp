@@ -12,7 +12,7 @@ Implement data parsing and display the fetched information.
 Add features like location search and weather alerts.
 Test the app to ensure accurate data display and functionality.
 
-## Weather Application using Openeat
+## Weather Application using OpenWeatherMap
 
 ![weather](https://github.com/user-attachments/assets/2cffc315-85ff-4dea-86a6-5c51578b11a6)
 
