@@ -16,11 +16,15 @@ Test the app to ensure accurate data display and functionality.
 
 ![weather](https://github.com/user-attachments/assets/2cffc315-85ff-4dea-86a6-5c51578b11a6)
 
+Loading Screen
+
 ![WeatherApp1](https://github.com/user-attachments/assets/dedc229b-40be-4821-8e4b-2f39f5a669e2)
 
+Fetching Locations Weather by OpenWeatherAPI Call
 ![WeatherApp2](https://github.com/user-attachments/assets/f9d50851-7dda-4f2e-8597-4cf6c4974215)
 
 
+<h3>Files:</h3>
 C:\Users\LAIBA\DEPMAD\pearlsky\lib\main.dart
 
 C:\Users\LAIBA\DEPMAD\pearlsky\lib\home.dart
